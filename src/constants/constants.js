@@ -37,6 +37,15 @@ export const projects = [
     visit: 'https://rapidapi.com/gabrielhcamacho/api/nexuscode-amazon-data-scraper',
     id: 3,
   },
+  {
+    title: 'Real State Scraper API',
+    description: "API that gets data from real estate located in Vancouver and save it in Excel file and in a PostgreSQL database",
+    image: '/images/jupyter.png',
+    tags: ['Python', 'PostgreSQL'],
+    source: 'https://github.com/gabrielhcamacho/Pyhton-API-Vancouver-Real-Estate',
+    visit: './notAvailable',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
