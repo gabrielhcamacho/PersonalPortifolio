@@ -11,12 +11,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'MIB System',
+    title: 'TendenceB',
     description:"Web system for market and marketing trend analysis powered by artificial intelligence, made in React, Next.js and AWS Cloud",
-    image: '/images/frisell.png',
-    tags: ['React', 'Next', 'AWS'],
+    image: '/images/tendenceb.png',
+    tags: ['Firebase', 'Next', 'TailwindCSS'],
     source: './notAvailable',
-    visit: './notAvailable',
+    visit: 'https://tendenceb.com/',
     id: 1,
   },
   {
@@ -43,6 +43,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Started learning coding by myself with 17 years', },
   { year: 2019, text: 'Went to Vancouver in Canada to study business management', },
   { year: 2020, text: 'Started developing software projects while studying business', },
-  { year: 2021, text: 'Graduated from Canada and came back to Brazil. Started Software Engineering Bachelor, won startup university championship in the 1˚ place with a React cross-platform application, joined Sistema Lift as a full stack intern', },
-  { year: 2022, text: 'Decided to follow with my own projects, co-founding MIB System, a data analysis software for market trends, and NexusCode. Looking forward to developing software for third party projects', },
+  { year: 2021, text: 'Came back to Brazil. Started Software Engineering Bachelor, won startup university championship in the 1˚ place with a React cross-platform application, joined Sistema Lift as a full stack intern', },
+  { year: 2022, text: 'Continued to create side hustle projects. 2022 is still being writen...', },
 ];

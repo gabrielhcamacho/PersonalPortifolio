@@ -33,8 +33,8 @@ export default function notAvailable() {
             <Animation ref={container}/>
         </ContainerAnimation>
         <SectionDivider style={{marginTop: 0,}}></SectionDivider>
-        <SectionTitle style={{marginTop: 30,}}>Sorry, this project is private while still in development</SectionTitle>
-        <SectionText>We can't make it available for the public at the moment. Don't worry, soon it will be displayed</SectionText>
+        <SectionTitle style={{marginTop: 30,}}>Sorry, this project page is not available for public</SectionTitle>
+        <SectionText>We can't make it available for the public at the moment. Get in touch to know more about this project</SectionText>
     </Section>
   )
 }
