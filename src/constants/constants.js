@@ -48,6 +48,7 @@ export const projects = [
   },
 ];
 
+
 export const TimeLineData = [
   { year: 2018, text: 'Started learning coding by myself with 17 years', },
   { year: 2019, text: 'Went to Vancouver in Canada to study business management', },
