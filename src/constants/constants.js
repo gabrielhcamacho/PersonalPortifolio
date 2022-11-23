@@ -12,8 +12,8 @@ export const projects = [
   },
   {
     title: 'TendenceB',
-    description:"Web system for market and marketing trend analysis powered by artificial intelligence, made in React, Next.js and AWS Cloud",
-    image: '/images/tendenceb.png',
+    description:"Web platform for market trend analysis integrated with CRM for leads qualification, made in React, Next.js and AWS Cloud",
+    image: '/images/dashboard.png',
     tags: ['Firebase', 'Next', 'TailwindCSS'],
     source: './notAvailable',
     visit: 'https://tendenceb.com/',
@@ -53,6 +53,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Started learning coding by myself with 17 years', },
   { year: 2019, text: 'Went to Vancouver in Canada to study business management', },
   { year: 2020, text: 'Started developing software projects while studying business', },
-  { year: 2021, text: 'Came back to Brazil. Started Software Engineering Bachelor, won startup university championship in the 1˚ place with a React cross-platform application, joined Sistema Lift as a full stack intern', },
-  { year: 2022, text: 'Continued to create side hustle projects. 2022 is still being writen...', },
+  { year: 2021, text: 'Came back to Brazil. Started Software Engineering Bachelor, won startup university championship in the 1˚ place with a React cross-platform application, joined Sistema Lift as a full stack intern and won the Londrina Commerce Hackathon', },
+  { year: 2022, text: 'Started a internship in the global company Tata Consultancy services, lead a team of 4 people and in 3 months became trainee and won the Londrina Tourism Hackathon...', },
 ];
