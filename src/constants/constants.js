@@ -54,5 +54,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Went to Vancouver in Canada to study business management', },
   { year: 2020, text: 'Started developing software projects while studying business', },
   { year: 2021, text: 'Came back to Brazil. Started Software Engineering Bachelor, won startup university championship in the 1˚ place with a React cross-platform application, joined Sistema Lift as a full stack intern and won the Londrina Commerce Hackathon', },
-  { year: 2022, text: 'Started a internship in the global company Tata Consultancy services, lead a team of 4 people and in 3 months became trainee and won the Londrina Tourism Hackathon...', },
+  { year: 2022, text: 'Started a internship in the global company Tata Consultancy services, lead a team of 4 people to perform a excellent job building a front-end platform for the company and in 3 months became trainee and won the Londrina Tourism Hackathon...', },
 ];
